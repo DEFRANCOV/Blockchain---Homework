@@ -73,7 +73,7 @@ Notice that the enode address we copied from terminal 1 is inserted in the termi
 ## Send a transaction through MyCrypto app 
 ### Set Up a Custom Network  
 Navigate to the Mycrypto app  
-![Custom Network Setup for MyCryto](\Setting_up_the_network.png)  
+![Custom Network Setup for MyCryto](Setting_up_the_network.png)  
 Nodename = valcoin  
 Network = custom  
 Network Name = valcoin  
@@ -95,5 +95,5 @@ You should see the transaction go from "Pending to "Successful" in around the sa
 Successful Transaction Sent:  
 
 
-![Successful Transaction Screen Capture](\transaction_status.png)  
+![Successful Transaction Screen Capture](transaction_status.png)  
 That's it.
